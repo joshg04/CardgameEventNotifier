@@ -1,0 +1,1225 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head prefix="og: http://ogp.me/ns#">
+  <!-- en.onepiece-cardgame.com に対する OneTrust Cookie 同意通知の始点 -->
+  <script src="https://cdn-apac.onetrust.com/consent/6e249468-3ba0-441d-bb98-e0ed56cd64fa/OtAutoBlock.js" type="text/javascript">
+  </script>
+  <script charset="UTF-8" data-domain-script="6e249468-3ba0-441d-bb98-e0ed56cd64fa" src="https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   function OptanonWrapper() { }
+  </script>
+  <!-- en.onepiece-cardgame.com に対する OneTrust Cookie 同意通知の終点 -->
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KKN2G96');
+  </script>
+  <!-- End Google Tag Manager -->
+  <meta charset="utf-8"/>
+  <title>
+   Championship 2024 October-December Offline Regional − EVENTS｜ONE PIECE CARD GAME - Official Web Site
+  </title>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0" name="viewport"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="ONE PIECE,Luffy,Zolo,Nami,Usopp,Sanji,Chopper,Robin,Franky,Brook,Jimbei,Shanks,CARD GAME,Straw hat,Bandai,Eiichiro Oda,Oda-sensei,TCG" name="Keywords"/>
+  <meta content="The official site for the popular trading card game based on anime and manga series ONE PIECE. Find the latest news, products, events, rules, and videos for the game." name="Description"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Championship 2024 October-December Offline Regional − EVENTS｜ONE PIECE CARD GAME - Official Web Site" property="og:title"/>
+  <meta content="https://en.onepiece-cardgame.com/ogp.png?0307" property="og:image"/>
+  <meta content="https://en.onepiece-cardgame.com/events/2024/championship/offline_regional_wave3.php" property="og:url"/>
+  <meta content="ONE PIECE CARD GAME - Official Web Site" property="og:site_name"/>
+  <meta content="The official site for the popular trading card game based on anime and manga series ONE PIECE. Find the latest news, products, events, rules, and videos for the game." property="og:description"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Championship 2024 October-December Offline Regional − EVENTS｜ONE PIECE CARD GAME - Official Web Site" name="twitter:title"/>
+  <meta content="The official site for the popular trading card game based on anime and manga series ONE PIECE. Find the latest news, products, events, rules, and videos for the game." name="twitter:description"/>
+  <meta content="https://en.onepiece-cardgame.com/ogp.png?0307" name="twitter:image"/>
+  <meta content="#fff" name="theme-color"/>
+  <link href="https://en.onepiece-cardgame.com/favicon.ico" rel="shortcut icon" type="image/png"/>
+  <link href="https://en.onepiece-cardgame.com/webclip.png" rel="apple-touch-icon"/>
+  <link href="https://en.onepiece-cardgame.com/favicon.ico" rel="shortcut icon"/>
+  <link href="https://www.onepiece-cardgame.com/" hreflang="ja" rel="alternate"/>
+  <link href="https://www.onepiece-cardgame.cn" hreflang="zh-Hans" rel="alternate"/>
+  <link href="https://asia-hk.onepiece-cardgame.com/" hreflang="zh-HK" rel="alternate"/>
+  <link href="https://asia-tw.onepiece-cardgame.com/" hreflang="zh-TW" rel="alternate"/>
+  <link href="https://asia-th.onepiece-cardgame.com/" hreflang="th" rel="alternate"/>
+  <link href="https://asia-en.onepiece-cardgame.com/" hreflang="en-sg" rel="alternate"/>
+  <link href="https://asia-en.onepiece-cardgame.com/" hreflang="en-my" rel="alternate"/>
+  <link href="https://asia-en.onepiece-cardgame.com/" hreflang="en-id" rel="alternate"/>
+  <link href="https://asia-en.onepiece-cardgame.com/" hreflang="en-ph" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-us" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-aw" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-vi" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ca" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-cw" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-gl" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-do" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-bm" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-pr" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-mq" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-sv" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-bo" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-au" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-gu" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-as" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ws" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-sb" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-sb" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-tv" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-to" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-nr" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-nz" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-vu" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-pw" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-mh" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ag" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-uy" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ec" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-gy" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-cu" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-gt" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-cr" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-co" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-jm" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-sr" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-vc" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-kn" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-lc" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-cl" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-dm" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-tt" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ni" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-pa" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-bs" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-bb" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-br" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ve" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-bz" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-pe" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-hn" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-mx" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ar" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-is" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ie" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-al" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ad" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-gb" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-it" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ua" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-at" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-nl" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-mk" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-hr" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-sm" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-gi" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-se" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-es" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-sk" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-si" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-rs" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-dk" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-de" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-no" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-va" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-hu" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-fi" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-fo" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-gf" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-bg" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-by" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-be" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-pl" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ba" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-mt" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-mc" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-md" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-me" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-lv" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-lt" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ro" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-lu" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ru" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-ch" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-gr" rel="alternate"/>
+  <link href="https://en.onepiece-cardgame.com/" hreflang="en-pt" rel="alternate"/>
+  <link href="/css/lib/jquery.fancybox.min.css" rel="stylesheet"/>
+  <link href="/css/layout.css?240619" rel="stylesheet"/>
+  <script src="/js/lib/jquery.min.js?v=3.6.0">
+  </script>
+  <script src="/js/lib/jquery.easing.1.4.min.js">
+  </script>
+  <script src="/js/lib/jquery.fancybox.min.js">
+  </script>
+  <script src="/js/common.js?240619">
+  </script>
+  <link href="/css/layout_en.css?240619" rel="stylesheet"/>
+  <script src="/js/common_en.js?240619">
+  </script>
+  <link href="/css/events.css?240619" rel="stylesheet"/>
+  <script src="/js/events.js?240619">
+  </script>
+  <link href="/css/events_en.css?240619" rel="stylesheet"/>
+  <script src="/js/events_en.js?240619">
+  </script>
+  <script src="../../../js/modal.js?240619">
+  </script>
+ </head>
+ <body id="events">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KKN2G96" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <header>
+   <h1 class="logo">
+    <a href="/">
+     ONE PIECE CARD GAME
+    </a>
+   </h1>
+   <div id="gnMenuCol">
+    <span class="spBtnGnSearch js_spBtnGnSearchOut">
+     SEARCH
+    </span>
+    <span class="btnGnMenu js_btnGnMenu">
+     MENU
+    </span>
+   </div>
+   <div class="spGnSearchCol" id="js_spGnSearchCol">
+    <div class="spGnSearchInner">
+     <form action="/cardlist/" class="spGnSearchForm" method="post">
+      <input name="search" type="hidden" value="true"/>
+      <div class="spGnfreewordsCol">
+       <input class="spGnfreewords" name="freewords" placeholder="Search from cardlist" type="text"/>
+      </div>
+      <input class="spGnClearBtn" type="button" value="✕"/>
+      <input class="spGnSubmitSearch" type="submit" value="SEARCH"/>
+     </form>
+    </div>
+   </div>
+   <div class="js_headerNavCol" id="headerNavCol">
+    <div class="gnMenuHeader">
+     <div class="logo">
+      <a href="/">
+       <img alt="ONE PIECE CARD GAME" src="/images/common/logo_op.png"/>
+      </a>
+     </div>
+     <div class="gnCloseCol">
+      <span class="spBtnGnSearch js_spBtnGnSearchIn">
+       SEARCH
+      </span>
+      <div class="gMenuClose js_gMenuClose">
+       CLOSE
+      </div>
+     </div>
+    </div>
+    <div class="headerNavTopCol">
+     <div class="gnSearchCol pc">
+      <form action="/cardlist/" class="gnSearchForm" method="post">
+       <input name="search" type="hidden" value="true"/>
+       <input class="gnfreewords" name="freewords" placeholder="Search from cardlist" type="text"/>
+       <input class="gnClearBtn" type="button" value="✕"/>
+       <input class="gnSubmitSearch" type="submit" value="SEARCH"/>
+       <span class="gnSearchBtn" id="js_gnSearchBtn">
+        SEARCH
+       </span>
+      </form>
+     </div>
+     <a class="icoGlobal" href="https://www.onepiece-cardgame.com/global/" rel="noopener" target="_blank">
+      GLOBAL
+     </a>
+     <dl class="socialMediaCol">
+      <dt>
+       SOCIAL MEDIA
+      </dt>
+      <dd class="youtube">
+       <a href="https://www.youtube.com/channel/UCT5u6XqA2oaSqxsXKp3zubw" rel="noopener" target="_blank">
+        <img alt="Official YouTube Channel" src="/images/common/ico_youtube.png"/>
+       </a>
+      </dd>
+      <dd class="facebook">
+       <a href="https://www.facebook.com/onepiecetcgen/" rel="noopener" target="_blank">
+        <img alt="Official Facebook Page" src="/images/common/ico_facebook.png"/>
+       </a>
+      </dd>
+      <dd class="twitter">
+       <a href="https://twitter.com/ONEPIECE_tcg_EN" rel="noopener" target="_blank">
+        <img alt="Official Twitter Account" src="/images/common/ico_twitter.png"/>
+       </a>
+      </dd>
+     </dl>
+     <span class="btnGnLanguage js_btnGnLanguage">
+      LANGUAGE
+     </span>
+     <div id="js_gnLanguageCol">
+      <ul class="gnLanguageInner">
+       <li>
+        <a class="languageBtn ja" href="https://www.onepiece-cardgame.com/">
+         日本語
+         <span>
+          Japanese
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="languageBtn cn" href="https://www.onepiece-cardgame.cn" rel="noopener" target="_blank">
+         简体中文
+         <span>
+          Simplified Chinese
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="languageBtn hk" href="https://asia-hk.onepiece-cardgame.com/">
+         繁體中文(HK)
+         <span>
+          Traditional Chinese(HK)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="languageBtn tw" href="https://asia-tw.onepiece-cardgame.com/">
+         繁體中文(TW)
+         <span>
+          Traditional Chinese(TW)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="languageBtn th" href="https://asia-th.onepiece-cardgame.com/">
+         ไทย
+         <span>
+          Thai
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="languageBtn asia-en" href="https://asia-en.onepiece-cardgame.com/">
+         English(Asia)
+         <span>
+          English(Asia)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="languageBtn en current" href="https://en.onepiece-cardgame.com/">
+         English
+         <br class="spInline"/>
+         (US/Europe/LatAm/Oceania)
+         <span>
+          English
+          <br class="spInline"/>
+          (US/Europe/LatAm/Oceania)
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <nav class="gnaviCol">
+     <ul class="navInner">
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navForBeginners" href="/beginners/">
+         FOR BEGINNERS
+        </a>
+       </div>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navTopics" href="/topics/">
+         TOPICS
+        </a>
+        <span class="js_acBtn">
+         ＋
+        </span>
+       </div>
+       <ul class="navSubContentsCol js_acCol">
+        <li>
+         <a href="/topics/">
+          ALL
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=products">
+          PRODUCTS
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=events">
+          EVENTS
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=promotions">
+          PROMOTIONS
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=other">
+          OTHER
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=organized_play">
+          ORGANIZED PLAY
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navProducts" href="/products/">
+         PRODUCTS
+        </a>
+        <span class="js_acBtn">
+         ＋
+        </span>
+       </div>
+       <ul class="navSubContentsCol js_acCol">
+        <li>
+         <a href="/products/">
+          ALL
+         </a>
+        </li>
+        <li>
+         <a href="/products/?tags=decks">
+          DECKS
+         </a>
+        </li>
+        <li>
+         <a href="/products/?tags=boosters">
+          BOOSTERS
+         </a>
+        </li>
+        <li>
+         <a href="/products/?tags=other">
+          OTHER
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navEvents current" href="/events/">
+         EVENTS
+        </a>
+       </div>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navCardlist" href="/cardlist/">
+         CARD LIST
+        </a>
+       </div>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navRules" href="/rules/">
+         RULES
+        </a>
+       </div>
+      </li>
+     </ul>
+    </nav>
+    <div class="gnMenuFooter">
+     <a class="icoGlobal" href="https://www.onepiece-cardgame.com/global/" rel="noopener" target="_blank">
+      GLOBAL
+     </a>
+     <dl class="socialMediaCol">
+      <dt>
+       SOCIAL MEDIA
+      </dt>
+      <dd class="youtube">
+       <a href="https://www.youtube.com/channel/UCT5u6XqA2oaSqxsXKp3zubw" rel="noopener" target="_blank">
+        <img alt="Official YouTube Channel" src="/images/common/ico_youtube.png"/>
+       </a>
+      </dd>
+      <dd class="facebook">
+       <a href="https://www.facebook.com/onepiecetcgen/" rel="noopener" target="_blank">
+        <img alt="Official Facebook Page" src="/images/common/ico_facebook.png"/>
+       </a>
+      </dd>
+      <dd class="twitter">
+       <a href="https://twitter.com/ONEPIECE_tcg_EN" rel="noopener" target="_blank">
+        <img alt="Official Twitter Account" src="/images/common/ico_twitter.png"/>
+       </a>
+      </dd>
+     </dl>
+    </div>
+   </div>
+  </header>
+  <ul class="breadcrumbList">
+   <li>
+    <a href="/">
+     HOME
+    </a>
+   </li>
+   <li>
+    <a href="/events/">
+     EVENTS
+    </a>
+   </li>
+   <li>
+    <a href="/topics/?tags=competitive">
+     COMPETITIVE
+    </a>
+   </li>
+   <li>
+    Championship 2024 October-December Offline Regional
+   </li>
+  </ul>
+  <main class="mainCol">
+   <article>
+    <h2 class="categoryTitle">
+     EVENTS
+    </h2>
+    <section>
+     <div class="mvImgCol">
+      <img alt="Championship 2024 October-December Offline Regional" src="/images/events/2024/championship/offline_regional_wave3/img_mv.png?"/>
+     </div>
+     <div class="pageTitCol">
+      <div class="pageTitInner">
+       <h3 class="pageTit">
+        Championship 2024 October-December Offline Regional
+       </h3>
+       <div class="pageTitInfoCol">
+        <span class="pageTitCategory">
+         <a href="/topics/?tags=competitive">
+          COMPETITIVE
+         </a>
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="contentsWrap">
+      <section class="contentsLCol mtS" id="offline_regional">
+       <h4 class="mediumTit mtM">
+        Offline Regional
+       </h4>
+       <section class="contentsMCol">
+        <h5 class="smallTit mtM">
+         Overview
+        </h5>
+        <p class="mtS">
+         Offline Regionals are battle events to decide the No.1 player in the region.​
+         <br/>
+         Become the local Card Game Pirate King and get exclusive treasure!​
+        </p>
+       </section>
+       <section class="contentsMCol">
+        <h5 class="smallTit mtM">
+         Period
+        </h5>
+        <p class="mtS">
+         October 1 - December 31, 2024
+        </p>
+       </section>
+       <section class="contentsMCol">
+        <h5 class="smallTit mtM">
+         Event Schedule and Tournament Organizer
+        </h5>
+        <h6 class="extraSmallTit mtM">
+         Latin America
+        </h6>
+        <dl class="mtS">
+         <dt>
+          <span class="txtBold">
+           LATAM TCG
+          </span>
+         </dt>
+         <dd class="mtXS">
+          Date：October 5, 2024
+         </dd>
+         <dd class="mtXS">
+          Venue：Wyndham Garden Sao Paulo Convention Nortel - Avenida Luiz Dumont Villares - Santana, São Paulo, Brazil
+         </dd>
+         <dd class="mtXXS">
+          Link：
+          <a href="https://www.latamtcgevents.com/octoberofflineregional" rel="noopener" target="_blank">
+           Registration
+          </a>
+         </dd>
+        </dl>
+       </section>
+      </section>
+      <section class="contentsLCol">
+       <h4 class="mediumTit">
+        Application Method
+       </h4>
+       <section class="contentsMCol">
+        <h5 class="smallTit mtM">
+         Application Period
+        </h5>
+        <p class="mtS">
+         Please be aware that the exact registration date and time may vary by tournament organizer.
+         <br/>
+         Please see the individual links for the events or our social media pages for more details.
+         <br/>
+         The time below is a guideline provided only for reference.
+        </p>
+        <dl class="mtS">
+         <dt class="extraSmallTit">
+          For October Events
+         </dt>
+         <dd class="txtBold mtS">
+          Starts July 28, 2024
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           North America
+          </span>
+          : 09:00am PT / 12:00pm ET
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           Europe
+          </span>
+          : 9:00am CET
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           Oceania
+          </span>
+          : 12:00pm AEST
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           Latin America
+          </span>
+          : 09:00am PT / 12:00pm ET
+         </dd>
+        </dl>
+        <dl class="mtM">
+         <dt class="extraSmallTit">
+          For November Events
+         </dt>
+         <dd class="txtBold mtS">
+          Starts August 25, 2024
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           North America
+          </span>
+          : 09:00am PT / 12:00pm ET
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           Europe
+          </span>
+          : 9:00am CET
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           Oceania
+          </span>
+          : 12:00pm AEST
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           Latin America
+          </span>
+          : 09:00am PT / 12:00pm ET
+         </dd>
+        </dl>
+        <dl class="mtM">
+         <dt class="extraSmallTit">
+          For December Events
+         </dt>
+         <dd class="txtBold mtS">
+          Starts September 29, 2024
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           North America
+          </span>
+          : 09:00am PT / 12:00pm ET
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           Europe
+          </span>
+          : 9:00am CET
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           Oceania
+          </span>
+          : 12:00pm AEST
+         </dd>
+         <dd class="mtXXS">
+          <span class="txtBold">
+           Latin America
+          </span>
+          : 09:00am PT / 12:00pm ET
+         </dd>
+        </dl>
+       </section>
+      </section>
+      <section class="contentsLCol">
+       <h4 class="mediumTit">
+        Prize
+       </h4>
+       <section class="contentsMCol mtM">
+        <h5 class="smallTit mtM">
+         Participation
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・Offline Regional Participation Pack 2024 Vol. 3 x2
+         </li>
+         <li>
+          ・Event Pack Vol. 5 x1
+         </li>
+         <li>
+          ・ONE PIECE Card Game Booster Pack x6
+         </li>
+        </ul>
+        <ul class="commonNoticeList mtS isHalf">
+         <li>
+          *The packs may vary for each event.
+         </li>
+        </ul>
+        <h5 class="smallTit mtM">
+         TOP 512 (When the event is for 1024 players or more)
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・
+          <a href="#prize-01">
+           DON!! Card -GEAR 5- x1
+          </a>
+         </li>
+         <li>
+          ・Event Pack Vol. 5 x1
+         </li>
+        </ul>
+        <h5 class="smallTit mtM">
+         TOP 256 (When the event is for 512 players or more)
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・
+          <a href="#prize-02">
+           Sleeve -Monkey.D.Luffy- x1 pack
+          </a>
+         </li>
+        </ul>
+        <h5 class="smallTit mtM">
+         TOP 128
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・
+          <a href="#prize-01">
+           DON!! Card -GEAR 5- x1
+          </a>
+         </li>
+        </ul>
+        <h5 class="smallTit mtM">
+         TOP 64
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・Regional Wave 3 Prize Card (Type A) x1
+         </li>
+         <li>
+          ・Event Pack Vol. 5 x4
+         </li>
+        </ul>
+        <h5 class="smallTit mtM">
+         Top 32
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・Offline Regional Finalist Card Set 2024 Vol. 3 x1
+         </li>
+        </ul>
+        <h5 class="smallTit mtM">
+         Top 16
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・Regional Wave 3 Prize Card (Type B) x1
+         </li>
+         <li>
+          ・
+          <a href="#prize-01">
+           DON!! Card -GEAR 5- x1
+          </a>
+         </li>
+         <li>
+          ・Finals Invite (NA only) x1
+         </li>
+        </ul>
+        <h5 class="smallTit mtM">
+         Top 8
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・Regional Wave 3 Prize Card (Type C) x1
+         </li>
+         <li>
+          ・
+          <a href="#prize-03">
+           ST01-120 Shanks Serial Number Card x1
+          </a>
+         </li>
+        </ul>
+        <h5 class="smallTit mtM">
+         2nd Place
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・
+          <a href="#prize-04">
+           2024 Regional 2nd Place Playmat x1
+          </a>
+         </li>
+        </ul>
+        <h5 class="smallTit mtM">
+         Champion
+        </h5>
+        <ul class="commonNoticeList mtS">
+         <li>
+          ・
+          <a href="#prize-05">
+           2024 Regional Champion Playmat x1
+          </a>
+         </li>
+         <li>
+          ・Offline Regional Champion Card Set 2024 Vol. 3 x1
+         </li>
+         <li>
+          ・
+          <a href="#prize-02">
+           Sleeves -Monkey.D.Luffy- x1 pack
+          </a>
+         </li>
+         <li>
+         </li>
+        </ul>
+        <section class="contentsMcol mtL" id="prize-01">
+         <h5 class="smallTit">
+          DON!! Card -Gear 5-
+         </h5>
+         <div class="eventPackCol mtM">
+          <div class="includecardBox singleCards mtS">
+           <ul class="cardPopupWrap">
+            <li>
+             <a class="js_modalOpenImage" data-fancybox="prizeList-03" href="/images/prize/doncard_gear5.png?1">
+              <img alt="DON!! Card -Gear 5" class="pcRendering" src="/images/prize/doncard_gear5.png?1"/>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </section>
+        <section class="contentsMcol mtL" id="prize-02">
+         <h5 class="smallTit">
+          Sleeve -Monkey D. Luffy-
+          <span class="txtSmall addTxt">
+           (10pcs)
+          </span>
+         </h5>
+         <div class="eventPackCol mtM">
+          <div class="includecardBox singleCards mtS">
+           <ul class="cardPopupWrap">
+            <li>
+             <a class="js_modalOpenImage" data-fancybox="prizeList-05" href="/images/events/2023/championship/prize/sleeve_luffy_02.png">
+              <img alt="Sleeve -Monkey D. Luffy-" class="pcRendering" src="/images/events/2023/championship/prize/sleeve_luffy_02.png"/>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </section>
+        <section class="contentsMcol mtL" id="prize-03">
+         <h5 class="smallTit">
+          ST01-120 Shanks Serial Number Card
+         </h5>
+         <div class="eventPackCol mtM">
+          <div class="includecardBox singleCards mtS">
+           <ul class="cardPopupWrap">
+            <li>
+             <a class="js_modalOpenImage" data-fancybox="prizeList-12" href="/images/prize/op01-120.png?1">
+              <img alt="ST01-120 Shanks Serial Number Card" class="pcRendering" src="/images/prize/op01-120.png?1"/>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </section>
+        <section class="contentsMcol mtL" id="prize-04">
+         <h5 class="smallTit">
+          2024 Regional 2nd Place Playmat
+         </h5>
+         <div class="eventPackCol mtM">
+          <div class="includecardBox singleCards">
+           <img alt="2024 Regional 2nd Place Playmat" class="centering pcWidthM spWidthM" src="/images/prize/playmat_2024_regional_2nd.png?2"/>
+          </div>
+         </div>
+        </section>
+        <section class="contentsMcol mtL" id="prize-05">
+         <h5 class="smallTit">
+          2024 Regional Champion Playmat
+         </h5>
+         <div class="eventPackCol mtM">
+          <div class="includecardBox singleCards">
+           <img alt="2024 Regional Champion Playmat" class="centering pcWidthM spWidthM" src="/images/prize/playmat_2024_regional_finalist.png?2"/>
+          </div>
+         </div>
+        </section>
+        <section class="contentsMCol mtL" id="JudgePack3">
+         <h5 class="smallTit mtM">
+          Judge Compensation
+         </h5>
+         <h6 class="extraSmallTit mtS">
+          Judge Pack Vol.4
+         </h6>
+        </section>
+        <ul class="commonNoticeList pcTxtSmall mtProdSmall isHalf mtS">
+         <li>
+          *Please check the Judge Program Discord for more information on the Judge Program.
+         </li>
+        </ul>
+       </section>
+      </section>
+      <section class="contentsLCol" id="side_events">
+       <h4 class="mediumTit">
+        Side Event
+       </h4>
+       <div class="contentsMCol">
+        <h5 class="smallTit mtM">
+         Recommended Format :
+        </h5>
+        <p class="mtS">
+         64-person constructed Best-of-1
+        </p>
+        <ul class="commonNoticeList pcTxtSmall mtProdSmall isHalf mtS">
+         <li>
+          *Side event size and method may vary by TO. Please check individual information from each TO for this event.
+         </li>
+         <li>
+          *Prizing distribution may differ depending on event/pod size.
+         </li>
+        </ul>
+        <div class="mtS">
+         <p>
+          <span class="txtBold">
+           Participation:
+          </span>
+          <br/>
+          ONE PIECE CARD GAME Booster Pack x2
+         </p>
+         <ul class="commonNoticeList pcTxtSmall mtProdSmall isHalf mtXXS">
+          <li>
+           *The packs may vary for each event.
+          </li>
+         </ul>
+         <p class="mtXS">
+          <span class="txtBold">
+           Top 32:
+          </span>
+          <br/>
+          Event Pack Vol. 5 x1
+         </p>
+         <p class="mtXS">
+          <span class="txtBold">
+           Top 2:
+          </span>
+          <br/>
+          Event Pack Vol. 5 x1
+         </p>
+         <p class="mtXS">
+          <span class="txtBold">
+           Champion:
+          </span>
+          <br/>
+          Regional Wave 3 Prize Card (Type A) x1
+         </p>
+        </div>
+       </div>
+      </section>
+      <section class="contentsLCol">
+       <h4 class="mediumTit">
+        Tournament Rule
+       </h4>
+       <p class="mtS">
+        Please be sure to check the rules regarding the Championship 2024.
+       </p>
+       <a class="commonBtn isIcoDL mtM" href="/pdf/tournament_rules_manual.pdf?20230407" rel="noopener" target="_blank">
+        <span>
+         Tournament Rules Manual
+         <br/>
+         (April 7, 2023)
+        </span>
+       </a>
+       <p class="mtL">
+        The Championship 2024 tournament rules and those not mentioned below will follow the Official Rules Manual, General Rules, and Tournament Rules of the official ONE PIECE Card Game.
+       </p>
+       <a class="commonBtn isIcoDL mtM" href="/pdf/rule_comprehensive.pdf?20240712" rel="noopener" target="_blank">
+        <span>
+         Comprehensive Rules
+         <br class="spInline"/>
+         (July 12, 2024)
+        </span>
+       </a>
+       <a class="commonBtn isIcoDL mtS" href="/pdf/rule_manual.pdf?20230623" rel="noopener" target="_blank">
+        <span>
+         Official Rule Manual
+         <br class="spInline"/>
+         (June 23, 2023)
+        </span>
+       </a>
+      </section>
+     </div>
+    </section>
+   </article>
+   <div class="pageFooterCol">
+    <aside class="connectionCol">
+     <h6 class="connectionTit">
+      RELATED PAGE
+     </h6>
+     <ul class="connectionPageListCol">
+      <li>
+       <a href="/beginners/">
+        <div class="connectionPageImg">
+         <img alt="FOR BEGINNERS" src="/images/beginners/img_thumbnail.png"/>
+        </div>
+        <div class="connectionPageTxt">
+         <span class="js_connectionPageTxt">
+          FOR BEGINNERS
+         </span>
+        </div>
+       </a>
+      </li>
+      <li>
+       <a href="/rules/">
+        <div class="connectionPageImg">
+         <img alt="RULE" src="/images/beginners/img_thumbnail.png"/>
+        </div>
+        <div class="connectionPageTxt">
+         <span class="js_connectionPageTxt">
+          RULE
+         </span>
+        </div>
+       </a>
+      </li>
+      <li>
+       <a href="/events/2024/championship/">
+        <div class="connectionPageImg">
+         <img alt="Championship 2024" src="/images/events/2024/championship/index/img_thumbnail_02.png"/>
+        </div>
+        <div class="connectionPageTxt">
+         <span class="js_connectionPageTxt">
+          Championship 2024
+         </span>
+        </div>
+       </a>
+      </li>
+     </ul>
+    </aside>
+   </div>
+   <a class="pageFooterBackBtn" href="/events/">
+    <span>
+     BACK
+    </span>
+   </a>
+  </main>
+  <footer>
+   <div class="snsShareCol">
+    <dl class="snsShareInner">
+     <dt>
+      SHARE
+     </dt>
+     <dd class="facebook">
+      <a class="facebook" href="http://www.facebook.com/share.php?u=https://en.onepiece-cardgame.com/events/2024/championship/offline_regional_wave3.php" rel="nofollow" target="_blank">
+       <img alt="facebook" src="/images/common/ico_facebook.png"/>
+      </a>
+     </dd>
+     <dd class="twitter">
+      <a href="http://twitter.com/share?text=Championship%202024%20October-December%20Offline%20Regional&amp;url=https://en.onepiece-cardgame.com/events/2024/championship/offline_regional_wave3.php&amp;hashtags=onepiece,onepiececardgame" rel="noopener noreferrer" target="_blank">
+       <img alt="Twitter" src="/images/common/ico_twitter.png"/>
+      </a>
+     </dd>
+    </dl>
+   </div>
+   <div class="footerNavCol">
+    <div class="footerTitleCol">
+     <a href="/">
+      <img alt="ONE PIECE CARD GAME" class="fLogo" src="/images/common/logo_op.png"/>
+     </a>
+     <a class="icoGlobal" href="https://www.onepiece-cardgame.com/global/" rel="noopener" target="_blank">
+      GLOBAL
+     </a>
+     <dl class="socialMediaCol">
+      <dt>
+       SOCIAL MEDIA
+      </dt>
+      <dd class="youtube">
+       <a href="https://www.youtube.com/channel/UCT5u6XqA2oaSqxsXKp3zubw" rel="noopener" target="_blank">
+        <img alt="Official YouTube Channel" src="/images/common/ico_youtube.png"/>
+       </a>
+      </dd>
+      <dd class="facebook">
+       <a href="https://www.facebook.com/onepiecetcgen/" rel="noopener" target="_blank">
+        <img alt="Official Facebook Page" src="/images/common/ico_facebook.png"/>
+       </a>
+      </dd>
+      <dd class="twitter">
+       <a href="https://twitter.com/ONEPIECE_tcg_EN" rel="noopener" target="_blank">
+        <img alt="Official Twitter Account" src="/images/common/ico_twitter.png"/>
+       </a>
+      </dd>
+     </dl>
+    </div>
+    <nav class="fnaviCol">
+     <ul class="navInner">
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navForBeginners" href="/beginners/">
+         FOR BEGINNERS
+        </a>
+       </div>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navTopics" href="/topics/">
+         TOPICS
+        </a>
+        <span class="js_acBtn">
+         ＋
+        </span>
+       </div>
+       <ul class="navSubContentsCol js_acCol">
+        <li>
+         <a href="/topics/">
+          ALL
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=products">
+          PRODUCTS
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=events">
+          EVENTS
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=promotions">
+          PROMOTIONS
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=other">
+          OTHER
+         </a>
+        </li>
+        <li>
+         <a href="/topics/?tags=organized_play">
+          ORGANIZED PLAY
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navProducts" href="/products/">
+         PRODUCTS
+        </a>
+        <span class="js_acBtn">
+         ＋
+        </span>
+       </div>
+       <ul class="navSubContentsCol js_acCol">
+        <li>
+         <a href="/products/">
+          ALL
+         </a>
+        </li>
+        <li>
+         <a href="/products/?tags=decks">
+          DECKS
+         </a>
+        </li>
+        <li>
+         <a href="/products/?tags=boosters">
+          BOOSTERS
+         </a>
+        </li>
+        <li>
+         <a href="/products/?tags=other">
+          OTHER
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navEvents current" href="/events/">
+         EVENTS
+        </a>
+       </div>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navCardlist" href="/cardlist/">
+         CARD LIST
+        </a>
+       </div>
+      </li>
+      <li class="navCategoryCol">
+       <div class="navBtn">
+        <a class="navRules" href="/rules/">
+         RULES
+        </a>
+       </div>
+      </li>
+     </ul>
+    </nav>
+   </div>
+   <ul class="footerContactCol">
+    <li>
+     <a href="https://global.carddass.com/inquiry.php" rel="noopener" target="_blank">
+      FOR INQUIRIES
+     </a>
+    </li>
+    <li>
+     <a href="/cookie_policy.php">
+      COOKIE POLICY
+     </a>
+    </li>
+   </ul>
+   <div class="footerCopyrightCol">
+    <p class="txtCol">
+     All images, text and data on this website may not be reproduced without permission.
+     <br/>
+     Please note that the images used on this website may differ from the actual product as it is still under development.
+    </p>
+    <div class="logoCol">
+     <span class="bcg">
+      <img alt="BANDAI CARD GAMES" src="/images/common/logo_bcg.png"/>
+     </span>
+     <a class="bandai" href="https://www.bandai.co.jp/" rel="noopener" target="_blank">
+      <img alt="BANDAI" src="/images/common/logo_bandai.png"/>
+     </a>
+     <span class="bandai_namco">
+      <img alt="BANDAI NAMCO" src="/images/common/logo_bandai_namco.png?v2"/>
+     </span>
+    </div>
+    <small>
+     ©Eiichiro Oda/Shueisha ©Eiichiro Oda/Shueisha, Toei Animation
+    </small>
+   </div>
+  </footer>
+  <script src="/js/slick.min.js">
+  </script>
+ </body>
+</html>
